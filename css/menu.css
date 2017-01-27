@@ -113,7 +113,7 @@ ul.dc_mm-orange li .sub li.mega-hdr a.mega-hdr-a{
 	background: -moz-linear-gradient(top,#70389C,#602D8D);
 	background: -o-linear-gradient(top,#70389C,#602D8D);
 	background: -ms-linear-gradient(top,#70389C,#602D8D);
-*/	color:#fff;
+*/	color:#000;
 	font-weight:bold;
 	margin-bottom:5px;
 	padding:5px 5px 5px 15px;
@@ -121,7 +121,7 @@ ul.dc_mm-orange li .sub li.mega-hdr a.mega-hdr-a{
 	text-transform:uppercase;
 }
 ul.dc_mm-orange li .sub li.mega-hdr a.mega-hdr-a:hover{
-	color: #FFF;
+	color: #CC3636;
 }
 ul.dc_mm-orange .sub li.mega-hdr li a{
 	background:url(../images/drop_arrow.png) no-repeat 5px 8px;
