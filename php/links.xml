@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <link>
+    <title>Organicos</title>
+    <url>../pages/organicos.html</url>
+  </link>
+  <link>
+    <title>Gastronomia</title>
+    <url>../pages/gastronomia.html</url>
+  </link>
+  <link>
+    <title>Plasticos</title>
+    <url>../pages/plasticos.html</url>
+  </link>
+  <link>
+    <title>Salud y Belleza</title>
+    <url>../pages/salud.html</url>
+  </link>
+  <link>
+    <title>Textiles</title>
+    <url>../pages/textiles.html</url>
+  </link>
+  <link>
+    <title>Login</title>
+    <url>../pages/login.html</url>
+  </link>
+ <link>
+    <title>Artesanal</title>
+    <url>../pages/artesanal.html</url>
+  </link>
+  <link>
+    <title>Contacto</title>
+    <url>../pages/contact.html</url>
+  </link>
+</pages>
